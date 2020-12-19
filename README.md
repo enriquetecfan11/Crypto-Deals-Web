@@ -1,2 +1,3 @@
-# Crypto-Deals-Web
-Created with CodeSandbox
+# Crypto Deals Web
+
+This is a repo for the web version of CryptoDeals
